@@ -1,2 +1,3 @@
 # Basic_GAN_mnist
-This Generative Adversarial Network (GAN) can generate numbers out of thin air :P
+This is my first basic GAN. I'll refer this in future for more epic projects
+It can generate numbers out of thin air :P
